@@ -2,6 +2,6 @@
 
 ## Freshservice P1 to Microsoft Teams Automation
 
-![Freshservice P1 Automation Flow](./images/freshservice-p1-flow.png)
+![Freshservice P1 Automation Flow](./images/Flow.png)
 
 Power Automate workflow that creates or reuses a Microsoft Teams group chat for urgent Freshservice incidents.
