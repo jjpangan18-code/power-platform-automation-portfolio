@@ -1,4 +1,4 @@
-[Uploading Freshservice_P1_Teams_Automation_README (1).md…]()
+[Freshservice_P1_Teams_Automation_README.md…]()
 # Freshservice P1 Incident → Microsoft Teams Group Chat Automation
 
 > A Power Automate and Freshservice solution that helps IT teams coordinate urgent incidents faster by creating or reusing a dedicated Microsoft Teams group chat.
